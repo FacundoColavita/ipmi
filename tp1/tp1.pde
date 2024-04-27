@@ -1,6 +1,6 @@
-PImage img;
-
-void setup() {
+PImage img;                 // Facundo Colavita
+                            //comisión 1
+void setup() {              //legajo: 118996/3
   img = loadImage ("panda.jpg");
   size(800,400);
 }
